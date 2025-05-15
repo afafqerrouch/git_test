@@ -1,0 +1,2 @@
+Hello World!
+My name is Afaf, and I am learning coding from The Odin Project
